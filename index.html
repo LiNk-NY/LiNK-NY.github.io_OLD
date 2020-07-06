@@ -191,7 +191,11 @@
   
   
   
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Cutive+Mono%7CLora:400,700%7CRoboto:400,700&display=swap">
+    
+      
+      
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Cutive+Mono%7CLora:400,700%7CRoboto:400,700&display=swap">
+    
   
 
   
@@ -279,7 +283,6 @@
   <title>M(R)amos</title>
 
 </head>
-
 <body id="top" data-spy="scroll" data-offset="70" data-target="#navbar-main" class="dark">
 
   <aside class="search-results" id="search">
@@ -315,6 +318,8 @@
 
 
   
+
+
 
 
 
@@ -424,16 +429,9 @@
         
         
         
-          
-          
-          
-            
-          
-          
-        
 
         <li class="nav-item">
-          <a class="nav-link " href="/#projects" data-target="#projects"><span>Projects</span></a>
+          <a class="nav-link " href="/packages/"><span>Packages</span></a>
         </li>
 
         
@@ -506,7 +504,7 @@
     <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
       
       <li class="nav-item">
-        <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+        <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
       </li>
       
 
@@ -1142,74 +1140,6 @@ projects and culminating MPH activities.</p>
   
   
 
-  <section id="projects" class="home-section wg-portfolio   "  >
-    <div class="container">
-      
-
-
-
-
-
-
-
-
-
-
-<div class="row">
-  <div class="col-12 col-lg-4 section-heading">
-
-    <h1>Projects</h1>
-    
-
-  </div>
-  <div class="col-12 col-lg-8">
-
-
-
-    
-
-    
-
-    <div class="isotope projects-container js-layout-masonry ">
-      
-    </div>
-
-  </div>
-</div>
-
-    </div>
-  </section>
-
-  
-  
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-  
-
-  
-  
-  
-
-  
-  
-  
-  
-  
-
-  
-  
-
   <section id="publications" class="home-section wg-pages   "  >
     <div class="container">
       
@@ -1395,7 +1325,7 @@ projects and culminating MPH activities.</p>
     
 
     <div class="mb-3">
-      <form name="contact" method="POST" action="https://formspree.io/marcel.ramos@sph.cuny.edu">
+      <form name="contact" method="POST" action="https://formspree.io/marcel.ramos@sph.cuny.edu"  >
         <div class="form-group form-inline">
           <label class="sr-only" for="inputName">Name</label>
           <input type="text" name="name" class="form-control w-100" id="inputName" placeholder="Name" required>
@@ -1408,6 +1338,8 @@ projects and culminating MPH activities.</p>
           <label class="sr-only" for="inputMessage">Message</label>
           <textarea name="message" class="form-control" id="inputMessage" rows="5" placeholder="Message" required></textarea>
         </div>
+        
+        
         <button type="submit" class="btn btn-outline-primary px-3 py-2">Send</button>
       </form>
     </div>
@@ -1506,7 +1438,7 @@ projects and culminating MPH activities.</p>
     
     
     
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
@@ -1551,7 +1483,8 @@ projects and culminating MPH activities.</p>
         'post': "Posts",
         'project': "Projects",
         'publication' : "Publications",
-        'talk' : "Talks"
+        'talk' : "Talks",
+        'slides' : "Slides"
         };
     </script>
     
@@ -1615,7 +1548,7 @@ projects and culminating MPH activities.</p>
     
     
     
-    <script src="/js/academic.min.37431be2d92d7fb0160054761ab79602.js"></script>
+    <script src="/js/academic.min.66c553246b0f279a03be6e5597f72b52.js"></script>
 
     
 
@@ -1631,8 +1564,18 @@ projects and culminating MPH activities.</p>
   
 
   <p class="powered-by">
-    © 2020 &middot; 
+    © 2020
+  </p>
 
+  
+  
+
+
+
+
+
+
+  <p class="powered-by">
     Powered by the
     <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
     <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
