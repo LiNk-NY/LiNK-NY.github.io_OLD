@@ -13,24 +13,6 @@
     </image>
     
     <item>
-      <title>Privacy Policy</title>
-      <link>https://LiNk-NY.github.io/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>https://LiNk-NY.github.io/privacy/</guid>
-      <description>&lt;p&gt;Add your privacy policy here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Terms</title>
-      <link>https://LiNk-NY.github.io/terms/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>https://LiNk-NY.github.io/terms/</guid>
-      <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Bioconductor and CRAN packages</title>
       <link>https://LiNk-NY.github.io/packages/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -70,11 +52,6 @@
 &lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://bioconductor.org/checkResults/release/data-experiment-LATEST/SingleCellMultiModal/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://bioconductor.org/shields/build/release/data-experiment/SingleCellMultiModal.svg&#34; alt=&#34;Bioconductor-release Build Status&#34;&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://bioconductor.org/checkResults/devel/data-experiment-LATEST/SingleCellMultiModal&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://bioconductor.org/shields/build/devel/data-experiment/SingleCellMultiModal.svg&#34; alt=&#34;Bioconductor-devel Build Status&#34;&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://github.com/Bioconductor/HCAMatrixBrowser&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HCAMatrixBrowser&lt;/a&gt;&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://bioconductor.org/checkResults/release/bioc-LATEST/HCAMatrixBrowser/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://bioconductor.org/shields/build/release/bioc/HCAMatrixBrowser.svg&#34; alt=&#34;Bioconductor-release Build Status&#34;&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://bioconductor.org/checkResults/devel/bioc-LATEST/HCAMatrixBrowser&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://bioconductor.org/shields/build/devel/bioc/HCAMatrixBrowser.svg&#34; alt=&#34;Bioconductor-devel Build Status&#34;&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;h2 id=&#34;contributor&#34;&gt;Contributor&lt;/h2&gt;
@@ -96,6 +73,16 @@
 &lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://github.com/Bioconductor/RaggedExperiment&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RaggedExperiment&lt;/a&gt;&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://bioconductor.org/checkResults/release/bioc-LATEST/RaggedExperiment&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://bioconductor.org/shields/build/release/bioc/RaggedExperiment.svg&#34; alt=&#34;Bioconductor-release Build Status&#34;&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://bioconductor.org/checkResults/devel/bioc-LATEST/RaggedExperiment&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://bioconductor.org/shields/build/devel/bioc/RaggedExperiment.svg&#34; alt=&#34;Bioconductor-devel Build Status&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://github.com/seandavi/BiocPkgTools&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BiocPkgTools&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://bioconductor.org/checkResults/release/bioc-LATEST/BiocPkgTools&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://bioconductor.org/shields/build/release/bioc/BiocPkgTools.svg&#34; alt=&#34;Bioconductor-release Build Status&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://bioconductor.org/checkResults/devel/bioc-LATEST/BiocPkgTools&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://bioconductor.org/shields/build/devel/bioc/BiocPkgTools.svg&#34; alt=&#34;Bioconductor-devel Build Status&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://github.com/Bioconductor/BiocCheck&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BiocCheck&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://bioconductor.org/checkResults/release/bioc-LATEST/BiocCheck&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://bioconductor.org/shields/build/release/bioc/BiocCheck.svg&#34; alt=&#34;Bioconductor-release Build Status&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://bioconductor.org/checkResults/devel/bioc-LATEST/BiocCheck&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://bioconductor.org/shields/build/devel/bioc/BiocCheck.svg&#34; alt=&#34;Bioconductor-devel Build Status&#34;&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
