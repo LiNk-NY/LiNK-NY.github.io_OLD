@@ -132,6 +132,16 @@
 &lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://bioconductor.org/checkResults/release/data-experiment-LATEST/SingleCellMultiModal/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://bioconductor.org/shields/build/release/data-experiment/SingleCellMultiModal.svg&#34; alt=&#34;Bioconductor-release Build Status&#34;&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://bioconductor.org/checkResults/devel/data-experiment-LATEST/SingleCellMultiModal&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://bioconductor.org/shields/build/devel/data-experiment/SingleCellMultiModal.svg&#34; alt=&#34;Bioconductor-devel Build Status&#34;&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://github.com/waldronlab/terraTCGAdata&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;terraTCGAdata&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://bioconductor.org/checkResults/release/bioc-LATEST/terraTCGAdata&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://bioconductor.org/shields/build/release/bioc/terraTCGAdata.svg&#34; alt=&#34;Bioconductor-release Build Status&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://bioconductor.org/checkResults/devel/bioc-LATEST/terraTCGAdata&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://bioconductor.org/shields/build/devel/bioc/terraTCGAdata.svg&#34; alt=&#34;Bioconductor-devel Build Status&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://github.com/Bioconductor/BiocBaseUtils&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BiocBaseUtils&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://bioconductor.org/checkResults/release/bioc-LATEST/BiocBaseUtils&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://bioconductor.org/shields/years-in-bioc/BiocBaseUtils.svg&#34; alt=&#34;Bioconductor-release Build Status&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://bioconductor.org/checkResults/devel/bioc-LATEST/BiocBaseUtils&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://bioconductor.org/shields/build/devel/bioc/BiocBaseUtils.svg&#34; alt=&#34;Bioconductor-devel Build Status&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;h2 id=&#34;contributor&#34;&gt;Contributor&lt;/h2&gt;
@@ -163,6 +173,11 @@
 &lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://github.com/Bioconductor/BiocCheck&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BiocCheck&lt;/a&gt;&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://bioconductor.org/checkResults/release/bioc-LATEST/BiocCheck&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://bioconductor.org/shields/build/release/bioc/BiocCheck.svg&#34; alt=&#34;Bioconductor-release Build Status&#34;&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://bioconductor.org/checkResults/devel/bioc-LATEST/BiocCheck&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://bioconductor.org/shields/build/devel/bioc/BiocCheck.svg&#34; alt=&#34;Bioconductor-devel Build Status&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://github.com/Bioconductor/GenomicDataCommons&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GenomicDataCommons&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://bioconductor.org/checkResults/release/bioc-LATEST/GenomicDataCommons&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://bioconductor.org/shields/build/release/bioc/GenomicDataCommons.svg&#34; alt=&#34;Bioconductor-release Build Status&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://bioconductor.org/checkResults/devel/bioc-LATEST/GenomicDataCommons&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://bioconductor.org/shields/build/devel/bioc/GenomicDataCommons.svg&#34; alt=&#34;Bioconductor-devel Build Status&#34;&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
