@@ -5,7 +5,7 @@
     <link>https://LiNk-NY.github.io/</link>
       <atom:link href="https://LiNk-NY.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>M(R)amos</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021</copyright>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022</copyright>
     <image>
       <url>https://LiNk-NY.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>M(R)amos</title>
@@ -178,6 +178,11 @@
 &lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://github.com/Bioconductor/GenomicDataCommons&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GenomicDataCommons&lt;/a&gt;&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://bioconductor.org/checkResults/release/bioc-LATEST/GenomicDataCommons&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://bioconductor.org/shields/build/release/bioc/GenomicDataCommons.svg&#34; alt=&#34;Bioconductor-release Build Status&#34;&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://bioconductor.org/checkResults/devel/bioc-LATEST/GenomicDataCommons&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://bioconductor.org/shields/build/devel/bioc/GenomicDataCommons.svg&#34; alt=&#34;Bioconductor-devel Build Status&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://github.com/Bioconductor/UniProt.ws&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UniProt.ws&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://bioconductor.org/checkResults/release/bioc-LATEST/UniProt.ws&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://bioconductor.org/shields/build/release/bioc/UniProt.ws.svg&#34; alt=&#34;Bioconductor-release Build Status&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://bioconductor.org/checkResults/devel/bioc-LATEST/UniProt.ws&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://bioconductor.org/shields/build/devel/bioc/UniProt.ws.svg&#34; alt=&#34;Bioconductor-devel Build Status&#34;&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
