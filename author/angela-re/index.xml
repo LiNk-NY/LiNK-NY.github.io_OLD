@@ -5,7 +5,7 @@
     <link>https://LiNk-NY.github.io/author/angela-re/</link>
       <atom:link href="https://LiNk-NY.github.io/author/angela-re/index.xml" rel="self" type="application/rss+xml" />
     <description>Angela Re</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Wed, 01 Nov 2017 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://LiNk-NY.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Angela Re</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
+      <title>Software for the Integration of Multiomics Experiments in Bioconductor</title>
+      <link>https://LiNk-NY.github.io/publication/ramos-2017-tk/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://LiNk-NY.github.io/publication/ramos-2017-tk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Software for the integration of multiomics experiments in bioconductor</title>
       <link>https://LiNk-NY.github.io/publication/ramos-2017-software/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://LiNk-NY.github.io/publication/ramos-2017-software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Public data and open source tools for multi-assay genomic investigation of disease</title>
+      <link>https://LiNk-NY.github.io/publication/kannan-2016-qy/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://LiNk-NY.github.io/publication/kannan-2016-qy/</guid>
       <description></description>
     </item>
     

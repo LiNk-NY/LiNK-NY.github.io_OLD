@@ -14,9 +14,41 @@
     
     <item>
       <title>Toward a gold standard for benchmarking gene set enrichment analysis</title>
+      <link>https://LiNk-NY.github.io/publication/geistlinger-2021-pn/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://LiNk-NY.github.io/publication/geistlinger-2021-pn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward a gold standard for benchmarking gene set enrichment analysis</title>
       <link>https://LiNk-NY.github.io/publication/geistlinger-2021-toward/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://LiNk-NY.github.io/publication/geistlinger-2021-toward/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiomic Integration of Public Oncology Databases in Bioconductor</title>
+      <link>https://LiNk-NY.github.io/publication/ramos-2020-ya/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://LiNk-NY.github.io/publication/ramos-2020-ya/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global Alliance for Genomics and Health Meets Bioconductor: Toward Reproducible and Agile Cancer Genomics at Cloud Scale</title>
+      <link>https://LiNk-NY.github.io/publication/carey-2020-lu/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://LiNk-NY.github.io/publication/carey-2020-lu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reliable Analysis of Clinical Tumor-Only Whole-Exome Sequencing Data</title>
+      <link>https://LiNk-NY.github.io/publication/oh-2020-py/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://LiNk-NY.github.io/publication/oh-2020-py/</guid>
       <description></description>
     </item>
     
@@ -41,6 +73,30 @@
       <link>https://LiNk-NY.github.io/publication/geistlinger-2019-multi/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://LiNk-NY.github.io/publication/geistlinger-2019-multi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software for the Integration of Multiomics Experiments in Bioconductor</title>
+      <link>https://LiNk-NY.github.io/publication/ramos-2017-tk/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://LiNk-NY.github.io/publication/ramos-2017-tk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accessible, curated metagenomic data through ExperimentHub</title>
+      <link>https://LiNk-NY.github.io/publication/pasolli-2017-hr/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://LiNk-NY.github.io/publication/pasolli-2017-hr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Public data and open source tools for multi-assay genomic investigation of disease</title>
+      <link>https://LiNk-NY.github.io/publication/kannan-2016-qy/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://LiNk-NY.github.io/publication/kannan-2016-qy/</guid>
       <description></description>
     </item>
     

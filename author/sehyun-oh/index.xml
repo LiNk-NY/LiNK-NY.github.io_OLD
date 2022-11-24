@@ -5,12 +5,44 @@
     <link>https://LiNk-NY.github.io/author/sehyun-oh/</link>
       <atom:link href="https://LiNk-NY.github.io/author/sehyun-oh/index.xml" rel="self" type="application/rss+xml" />
     <description>Sehyun Oh</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://LiNk-NY.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Sehyun Oh</title>
       <link>https://LiNk-NY.github.io/author/sehyun-oh/</link>
     </image>
+    
+    <item>
+      <title>GenomicSuperSignature facilitates interpretation of RNA-seq experiments through robust, efficient comparison to public databases</title>
+      <link>https://LiNk-NY.github.io/publication/oh-2022-xi/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://LiNk-NY.github.io/publication/oh-2022-xi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiomic Integration of Public Oncology Databases in Bioconductor</title>
+      <link>https://LiNk-NY.github.io/publication/ramos-2020-ya/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://LiNk-NY.github.io/publication/ramos-2020-ya/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global Alliance for Genomics and Health Meets Bioconductor: Toward Reproducible and Agile Cancer Genomics at Cloud Scale</title>
+      <link>https://LiNk-NY.github.io/publication/carey-2020-lu/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://LiNk-NY.github.io/publication/carey-2020-lu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reliable Analysis of Clinical Tumor-Only Whole-Exome Sequencing Data</title>
+      <link>https://LiNk-NY.github.io/publication/oh-2020-py/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://LiNk-NY.github.io/publication/oh-2020-py/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Multiomic analysis of subtype evolution and heterogeneity in high-grade serous ovarian carcinoma</title>

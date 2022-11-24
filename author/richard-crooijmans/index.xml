@@ -5,12 +5,20 @@
     <link>https://LiNk-NY.github.io/author/richard-crooijmans/</link>
       <atom:link href="https://LiNk-NY.github.io/author/richard-crooijmans/index.xml" rel="self" type="application/rss+xml" />
     <description>Richard Crooijmans</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://LiNk-NY.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Richard Crooijmans</title>
       <link>https://LiNk-NY.github.io/author/richard-crooijmans/</link>
     </image>
+    
+    <item>
+      <title>CNVRanger: association analysis of CNVs with gene expression and quantitative phenotypes</title>
+      <link>https://LiNk-NY.github.io/publication/da-silva-2020-ff/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://LiNk-NY.github.io/publication/da-silva-2020-ff/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>CNVRanger: association analysis of CNVs with gene expression and quantitative phenotypes</title>

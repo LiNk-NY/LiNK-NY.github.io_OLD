@@ -14,9 +14,25 @@
     
     <item>
       <title>Toward a gold standard for benchmarking gene set enrichment analysis</title>
+      <link>https://LiNk-NY.github.io/publication/geistlinger-2021-pn/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://LiNk-NY.github.io/publication/geistlinger-2021-pn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward a gold standard for benchmarking gene set enrichment analysis</title>
       <link>https://LiNk-NY.github.io/publication/geistlinger-2021-toward/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://LiNk-NY.github.io/publication/geistlinger-2021-toward/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiomic Integration of Public Oncology Databases in Bioconductor</title>
+      <link>https://LiNk-NY.github.io/publication/ramos-2020-ya/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://LiNk-NY.github.io/publication/ramos-2020-ya/</guid>
       <description></description>
     </item>
     
@@ -37,6 +53,14 @@
     </item>
     
     <item>
+      <title>HMP16SData: Efficient Access to the Human Microbiome Project Through Bioconductor</title>
+      <link>https://LiNk-NY.github.io/publication/schiffer-2019-wn/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://LiNk-NY.github.io/publication/schiffer-2019-wn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Improving Accessibility of the Human Microbiome Project Data Through Integration With R/Bioconductor</title>
       <link>https://LiNk-NY.github.io/publication/waldron-2019-improving/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
@@ -45,10 +69,34 @@
     </item>
     
     <item>
+      <title>Improving Accessibility of the Human Microbiome Project Data Through Integration With R/Bioconductor</title>
+      <link>https://LiNk-NY.github.io/publication/waldron-2019-rq/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://LiNk-NY.github.io/publication/waldron-2019-rq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Multi-omic analysis supports a developmental hierarchy of molecular subtypes in high-grade serous ovarian carcinoma</title>
       <link>https://LiNk-NY.github.io/publication/geistlinger-2019-multi/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://LiNk-NY.github.io/publication/geistlinger-2019-multi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software for the Integration of Multiomics Experiments in Bioconductor</title>
+      <link>https://LiNk-NY.github.io/publication/ramos-2017-tk/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://LiNk-NY.github.io/publication/ramos-2017-tk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accessible, curated metagenomic data through ExperimentHub</title>
+      <link>https://LiNk-NY.github.io/publication/pasolli-2017-hr/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://LiNk-NY.github.io/publication/pasolli-2017-hr/</guid>
       <description></description>
     </item>
     

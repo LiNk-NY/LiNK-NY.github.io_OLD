@@ -5,7 +5,7 @@
     <link>https://LiNk-NY.github.io/author/sean-davis/</link>
       <atom:link href="https://LiNk-NY.github.io/author/sean-davis/index.xml" rel="self" type="application/rss+xml" />
     <description>Sean Davis</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://LiNk-NY.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Sean Davis</title>
@@ -13,10 +13,42 @@
     </image>
     
     <item>
+      <title>GenomicSuperSignature facilitates interpretation of RNA-seq experiments through robust, efficient comparison to public databases</title>
+      <link>https://LiNk-NY.github.io/publication/oh-2022-xi/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://LiNk-NY.github.io/publication/oh-2022-xi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward a gold standard for benchmarking gene set enrichment analysis</title>
+      <link>https://LiNk-NY.github.io/publication/geistlinger-2021-pn/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://LiNk-NY.github.io/publication/geistlinger-2021-pn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Toward a gold standard for benchmarking gene set enrichment analysis</title>
       <link>https://LiNk-NY.github.io/publication/geistlinger-2021-toward/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://LiNk-NY.github.io/publication/geistlinger-2021-toward/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Orchestrating a community-developed computational workshop and accompanying training materials</title>
+      <link>https://LiNk-NY.github.io/publication/davis-2018-ly/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://LiNk-NY.github.io/publication/davis-2018-ly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Public data and open source tools for multi-assay genomic investigation of disease</title>
+      <link>https://LiNk-NY.github.io/publication/kannan-2016-qy/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://LiNk-NY.github.io/publication/kannan-2016-qy/</guid>
       <description></description>
     </item>
     

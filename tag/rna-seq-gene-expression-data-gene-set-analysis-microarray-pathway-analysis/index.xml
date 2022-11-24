@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RNA-seq; gene expression data; gene set analysis; microarray; pathway analysis | M(R)amos</title>
+    <link>https://LiNk-NY.github.io/tag/rna-seq-gene-expression-data-gene-set-analysis-microarray-pathway-analysis/</link>
+      <atom:link href="https://LiNk-NY.github.io/tag/rna-seq-gene-expression-data-gene-set-analysis-microarray-pathway-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <description>RNA-seq; gene expression data; gene set analysis; microarray; pathway analysis</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://LiNk-NY.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>RNA-seq; gene expression data; gene set analysis; microarray; pathway analysis</title>
+      <link>https://LiNk-NY.github.io/tag/rna-seq-gene-expression-data-gene-set-analysis-microarray-pathway-analysis/</link>
+    </image>
+    
+    <item>
+      <title>Toward a gold standard for benchmarking gene set enrichment analysis</title>
+      <link>https://LiNk-NY.github.io/publication/geistlinger-2021-pn/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://LiNk-NY.github.io/publication/geistlinger-2021-pn/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

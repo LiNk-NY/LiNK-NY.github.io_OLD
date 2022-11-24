@@ -5,12 +5,20 @@
     <link>https://LiNk-NY.github.io/author/markus-riester/</link>
       <atom:link href="https://LiNk-NY.github.io/author/markus-riester/index.xml" rel="self" type="application/rss+xml" />
     <description>Markus Riester</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://LiNk-NY.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Markus Riester</title>
       <link>https://LiNk-NY.github.io/author/markus-riester/</link>
     </image>
+    
+    <item>
+      <title>Reliable Analysis of Clinical Tumor-Only Whole-Exome Sequencing Data</title>
+      <link>https://LiNk-NY.github.io/publication/oh-2020-py/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://LiNk-NY.github.io/publication/oh-2020-py/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Reliable analysis of clinical tumor-only whole-exome sequencing data</title>
@@ -25,6 +33,14 @@
       <link>https://LiNk-NY.github.io/publication/geistlinger-2019-multi/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://LiNk-NY.github.io/publication/geistlinger-2019-multi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software for the Integration of Multiomics Experiments in Bioconductor</title>
+      <link>https://LiNk-NY.github.io/publication/ramos-2017-tk/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://LiNk-NY.github.io/publication/ramos-2017-tk/</guid>
       <description></description>
     </item>
     
