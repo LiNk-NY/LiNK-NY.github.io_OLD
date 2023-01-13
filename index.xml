@@ -358,6 +358,10 @@
 &lt;/table&gt;
 &lt;h3 id=&#34;in-development&#34;&gt;In Development&lt;/h3&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Bioconductor/ZarrExperiment&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ZarrExperiment&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ccb-hms/CyCIFData&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CyCIFData&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/LiNk-NY/BiocArchive&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BiocArchive&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Bioconductor/BranchRename&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BranchRename&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/Bioconductor/ReleaseLaunch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ReleaseLaunch&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/LiNk-NY/BiocHubsShiny&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BiocHubsShiny&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/waldronlab/oncoKBData&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;oncoKBData&lt;/a&gt;&lt;/li&gt;
