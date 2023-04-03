@@ -5,204 +5,12 @@
     <link>https://LiNk-NY.github.io/</link>
       <atom:link href="https://LiNk-NY.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>M(R)amos</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023</copyright><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023</copyright>
     <image>
       <url>https://LiNk-NY.github.io/images/icon_hu44c5cd0718181b6f9c2753bad0214726_14512_512x512_fill_lanczos_center_3.png</url>
       <title>M(R)amos</title>
       <link>https://LiNk-NY.github.io/</link>
     </image>
-    
-    <item>
-      <title>GenomicSuperSignature facilitates interpretation of RNA-seq experiments through robust, efficient comparison to public databases</title>
-      <link>https://LiNk-NY.github.io/publication/oh-2022-xi/</link>
-      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://LiNk-NY.github.io/publication/oh-2022-xi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Toward a gold standard for benchmarking gene set enrichment analysis</title>
-      <link>https://LiNk-NY.github.io/publication/geistlinger-2021-pn/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://LiNk-NY.github.io/publication/geistlinger-2021-pn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Toward a gold standard for benchmarking gene set enrichment analysis</title>
-      <link>https://LiNk-NY.github.io/publication/geistlinger-2021-toward/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://LiNk-NY.github.io/publication/geistlinger-2021-toward/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multiomic Integration of Public Oncology Databases in Bioconductor</title>
-      <link>https://LiNk-NY.github.io/publication/ramos-2020-ya/</link>
-      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://LiNk-NY.github.io/publication/ramos-2020-ya/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Global Alliance for Genomics and Health Meets Bioconductor: Toward Reproducible and Agile Cancer Genomics at Cloud Scale</title>
-      <link>https://LiNk-NY.github.io/publication/carey-2020-lu/</link>
-      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://LiNk-NY.github.io/publication/carey-2020-lu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reliable Analysis of Clinical Tumor-Only Whole-Exome Sequencing Data</title>
-      <link>https://LiNk-NY.github.io/publication/oh-2020-py/</link>
-      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://LiNk-NY.github.io/publication/oh-2020-py/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CNVRanger: association analysis of CNVs with gene expression and quantitative phenotypes</title>
-      <link>https://LiNk-NY.github.io/publication/da-silva-2020-ff/</link>
-      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://LiNk-NY.github.io/publication/da-silva-2020-ff/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CNVRanger: association analysis of CNVs with gene expression and quantitative phenotypes</title>
-      <link>https://LiNk-NY.github.io/publication/da-2020-cnvranger/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://LiNk-NY.github.io/publication/da-2020-cnvranger/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multiomic analysis of subtype evolution and heterogeneity in high-grade serous ovarian carcinoma</title>
-      <link>https://LiNk-NY.github.io/publication/geistlinger-2020-multiomic/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://LiNk-NY.github.io/publication/geistlinger-2020-multiomic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multiomic Analysis of Subtype Evolution and Heterogeneity in High-Grade Serous Ovarian CarcinomaMultiomic Analysis of Subtype Evolution in Ovarian Cancer</title>
-      <link>https://LiNk-NY.github.io/publication/geistlinger-2020-pq/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://LiNk-NY.github.io/publication/geistlinger-2020-pq/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multiomic Integration of Public Oncology Databases in Bioconductor</title>
-      <link>https://LiNk-NY.github.io/publication/ramos-2020-multiomic/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://LiNk-NY.github.io/publication/ramos-2020-multiomic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reliable analysis of clinical tumor-only whole-exome sequencing data</title>
-      <link>https://LiNk-NY.github.io/publication/oh-2020-reliable/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://LiNk-NY.github.io/publication/oh-2020-reliable/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>HMP16SData: Efficient Access to the Human Microbiome Project Through Bioconductor</title>
-      <link>https://LiNk-NY.github.io/publication/schiffer-2019-wn/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://LiNk-NY.github.io/publication/schiffer-2019-wn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Improving Accessibility of the Human Microbiome Project Data Through Integration With R/Bioconductor</title>
-      <link>https://LiNk-NY.github.io/publication/waldron-2019-improving/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://LiNk-NY.github.io/publication/waldron-2019-improving/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Improving Accessibility of the Human Microbiome Project Data Through Integration With R/Bioconductor</title>
-      <link>https://LiNk-NY.github.io/publication/waldron-2019-rq/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://LiNk-NY.github.io/publication/waldron-2019-rq/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multi-omic analysis supports a developmental hierarchy of molecular subtypes in high-grade serous ovarian carcinoma</title>
-      <link>https://LiNk-NY.github.io/publication/geistlinger-2019-multi/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://LiNk-NY.github.io/publication/geistlinger-2019-multi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Orchestrating a community-developed computational workshop and accompanying training materials</title>
-      <link>https://LiNk-NY.github.io/publication/davis-2018-ly/</link>
-      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://LiNk-NY.github.io/publication/davis-2018-ly/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Software for the Integration of Multiomics Experiments in Bioconductor</title>
-      <link>https://LiNk-NY.github.io/publication/ramos-2017-tk/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://LiNk-NY.github.io/publication/ramos-2017-tk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Accessible, curated metagenomic data through ExperimentHub</title>
-      <link>https://LiNk-NY.github.io/publication/pasolli-2017-hr/</link>
-      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://LiNk-NY.github.io/publication/pasolli-2017-hr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ogttMetrics: Data structures and algorithms for oral glucose tolerance tests</title>
-      <link>https://LiNk-NY.github.io/publication/stubbs-2017-cx/</link>
-      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
-      <guid>https://LiNk-NY.github.io/publication/stubbs-2017-cx/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Accessible, curated metagenomic data through ExperimentHub</title>
-      <link>https://LiNk-NY.github.io/publication/pasolli-2017-accessible/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://LiNk-NY.github.io/publication/pasolli-2017-accessible/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Software for the integration of multiomics experiments in bioconductor</title>
-      <link>https://LiNk-NY.github.io/publication/ramos-2017-software/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://LiNk-NY.github.io/publication/ramos-2017-software/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Public data and open source tools for multi-assay genomic investigation of disease</title>
-      <link>https://LiNk-NY.github.io/publication/kannan-2016-qy/</link>
-      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>https://LiNk-NY.github.io/publication/kannan-2016-qy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Public data and open source tools for multi-assay genomic investigation of disease</title>
-      <link>https://LiNk-NY.github.io/publication/kannan-2016-public/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://LiNk-NY.github.io/publication/kannan-2016-public/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Bioconductor and CRAN packages</title>
@@ -264,6 +72,11 @@
 &lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://github.com/waldronlab/TENxIO&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TENxIO&lt;/a&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;http://bioconductor.org/checkResults/release/bioc-LATEST/TENxIO&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://bioconductor.org/shields/years-in-bioc/TENxIO.svg&#34; alt=&#34;Bioconductor-release Build Status&#34;&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;http://bioconductor.org/checkResults/devel/bioc-LATEST/TENxIO&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://bioconductor.org/shields/build/devel/bioc/TENxIO.svg&#34; alt=&#34;Bioconductor-devel Build Status&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://github.com/Bioconductor/BiocHubsShiny&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BiocHubsShiny&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;http://bioconductor.org/checkResults/release/bioc-LATEST/BiocHubsShiny&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://bioconductor.org/shields/years-in-bioc/BiocHubsShiny.svg&#34; alt=&#34;Bioconductor-release Build Status&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;http://bioconductor.org/checkResults/devel/bioc-LATEST/BiocHubsShiny&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://bioconductor.org/shields/build/devel/bioc/BiocHubsShiny.svg&#34; alt=&#34;Bioconductor-devel Build Status&#34;&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -363,7 +176,6 @@
 &lt;li&gt;&lt;a href=&#34;https://github.com/LiNk-NY/BiocArchive&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BiocArchive&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/Bioconductor/BranchRename&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BranchRename&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/Bioconductor/ReleaseLaunch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ReleaseLaunch&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/LiNk-NY/BiocHubsShiny&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BiocHubsShiny&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/waldronlab/oncoKBData&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;oncoKBData&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/waldronlab/newsfeed&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;newsfeed&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/LiNk-NY/describer&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;describer&lt;/a&gt;&lt;/li&gt;
